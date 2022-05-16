@@ -1,3 +1,4 @@
+// http://creativecommons.org/licenses/by-nc-nd/4.0/
 // Codigo programado por ANTONIO REQUENA QUESADA
 int distancia = 0;
 
